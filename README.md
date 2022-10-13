@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @andreasHovaldt
 - 👀 I’m interested in programming and robotics
 - 🌱 I’m currently learning robotics
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: andreas.hovaldt@gmail.com
 
 <!---
