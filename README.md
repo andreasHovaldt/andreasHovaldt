@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @andreasHovaldt
-- 👀 I’m interested in programming and robotics
-- 🌱 I’m currently learning robotics at Aalborg University
+- 🌱 I’m currently studying Computer Engineering at Aalborg University
 - 📫 How to reach me: andreas.hovaldt@gmail.com
 
 <!---
